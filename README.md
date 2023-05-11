@@ -16,7 +16,7 @@ This is a Pytorch Implementation of [WAY: Estimation of Vessel Destination in Wo
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-18.04+-E95420?style=for-the-badge&logo=ubuntu&logoColor=E95420)
 ![Python](https://img.shields.io/badge/Python-3.8.8-3776AB?style=for-the-badge&logo=python&logoColor=FFEE73)
 ![PyTorch](https://img.shields.io/badge/PyTorch-1.7.1-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=EE4C2C)   
-
+* We recommend you to visit [Previous Versions (v1.7.1)](https://pytorch.org/get-started/previous-versions/#v171) for instructions to install **PyTorch** with torchvision==0.8.2.
 
 ## Experimental Results
 The trajectory begins from the red marker 🔴 (departure port), and progresses to the blue marker 🔵 (destination port).
