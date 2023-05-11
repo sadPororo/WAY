@@ -2,6 +2,22 @@
 This is a Pytorch Implementation of [WAY: Estimation of Vessel Destination in Worldwide AIS Trajectory](https://ieeexplore.ieee.org/document/10107762).
 
 
+<p align="center">
+<img src="/img/Fig-Annotation_Framework_Overview.png" width="900" height="250">   
+  <br>Visualization of annotation framework for extracting trajectories from raw AIS data
+</p>
+<br>
+<p align="center">
+<img src="/img/Fig-Model_Overview.png" width="900" height="410">   
+  <br>Overall model architecture of WAY
+</p>
+
+## Environment & Python Requirements
+![Ubuntu](https://img.shields.io/badge/Ubuntu-18.04+-E95420?style=for-the-badge&logo=ubuntu&logoColor=E95420)
+![Python](https://img.shields.io/badge/Python-3.8.8-3776AB?style=for-the-badge&logo=python&logoColor=FFEE73)
+![PyTorch](https://img.shields.io/badge/PyTorch-1.7.1-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=EE4C2C)   
+
+
 ## Citation
 ```
 @article{kim2023way,
