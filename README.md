@@ -18,6 +18,10 @@ This is a Pytorch Implementation of [WAY: Estimation of Vessel Destination in Wo
 ![PyTorch](https://img.shields.io/badge/PyTorch-1.7.1-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=EE4C2C)   
 * We recommend you to visit [Previous Versions (v1.7.1)](https://pytorch.org/get-started/previous-versions/#v171) for instructions to install **PyTorch** with torchvision==0.8.2.
 
+Use the [requirements.txt](/requirements.txt) to install the rest of Python dependencies.   
+```bash
+$ pip install -r requirements.txt
+```
 ## Experimental Results
 The trajectory begins from the red marker 🔴 (departure port), and progresses to the blue marker 🔵 (destination port).
 Spatial grids are colored green 🟩 if the model estimated the correct destination at the corresponding position, else orange 🟧.
