@@ -18,6 +18,14 @@ This is a Pytorch Implementation of [WAY: Estimation of Vessel Destination in Wo
 ![PyTorch](https://img.shields.io/badge/PyTorch-1.7.1-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=EE4C2C)   
 
 
+## Experimental Results
+The trajectory begins from the red marker 🔴 (departure port), and progresses to the blue marker 🔵 (destination port).
+Spatial grids are colored green 🟩 if the model estimated the correct destination at the corresponding position, else orange 🟧.
+<p align="center">
+<img src="/img/Fig-model_estimation_example.png" width="900" height="375">   
+  <br>The estimation examples from each comparison model along the ship trajectory progression.
+</p>
+
 ## Citation
 ```
 @article{kim2023way,
