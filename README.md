@@ -8,7 +8,7 @@ This is a Pytorch Implementation of [WAY: Estimation of Vessel Destination in Wo
 </p>
 <br>
 <p align="center">
-<img src="/img/Fig-Model_Overview.png" width="900" height="410">   
+<img src="/img/Fig-Model_Overview.png" width="900" height="400">   
   <br>Overall model architecture of WAY
 </p>
 
