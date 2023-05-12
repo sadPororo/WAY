@@ -13,6 +13,7 @@ This is a Pytorch Implementation of [WAY: Estimation of Vessel Destination in Wo
 </p>
 
 ## Environment & Python Requirements
+![Windows](https://img.shields.io/badge/Windows-10&11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-18.04+-E95420?style=for-the-badge&logo=ubuntu&logoColor=E95420)
 ![Python](https://img.shields.io/badge/Python-3.8.8-3776AB?style=for-the-badge&logo=python&logoColor=FFEE73)
 ![PyTorch](https://img.shields.io/badge/PyTorch-1.7.1-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=EE4C2C)   
