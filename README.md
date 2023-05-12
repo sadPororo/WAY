@@ -12,11 +12,11 @@ This is a Pytorch Implementation of [WAY: Estimation of Vessel Destination in Wo
   <br>Overall model architecture of WAY
 </p>
 
-## Environment & Python Requirements
-![Windows](https://img.shields.io/badge/Windows-10&11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+## Environment Supports & Python Requirements
+![Windows](https://img.shields.io/badge/Windows-10&11-%230079d5?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-18.04+-E95420?style=for-the-badge&logo=ubuntu&logoColor=E95420)
-![Python](https://img.shields.io/badge/Python-3.8.8-3776AB?style=for-the-badge&logo=python&logoColor=FFEE73)
-![PyTorch](https://img.shields.io/badge/PyTorch-1.7.1-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=EE4C2C)   
+![Python](https://img.shields.io/badge/Python-3.8.8-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-1.7.1-%23EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=%23EE4C2C)   
 * We recommend you to visit [Previous Versions (v1.7.1)](https://pytorch.org/get-started/previous-versions/#v171) for instructions to install **PyTorch** with torchvision==0.8.2.
 
 Use the [requirements.txt](/requirements.txt) to install the rest of Python dependencies.   
