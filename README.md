@@ -24,7 +24,7 @@ $ pip install -r requirements.txt
 ```
 ## Experimental Results
 The trajectory begins from the red marker 🔴 (departure port), and progresses to the blue marker 🔵 (destination port).
-Spatial grids are colored green 🟩 if the model estimated the correct destination at the corresponding position, else orange 🟧.
+Spatial grids are colored green 🟩 if the model estimated the correct destination at the corresponding phase of the ship operation, else orange 🟧.
 <p align="center">
 <img src="/img/Fig-model_estimation_example.png" width="900" height="370">   
   <br>The visualization of estimation correctness on a single test example between each comparison model along the ship trajectory progression
