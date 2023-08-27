@@ -3,7 +3,7 @@ This is a Pytorch Implementation of [WAY: Estimation of Vessel Destination in Wo
 
 
 <p align="center">
-<img src="/img/Fig-Annotation_Framework_Overview.png" width="900" height="230">   
+<img src="/img/Fig-Annotation_Framework_Overview.png" width="900" height="240">   
   <br>Visualization of annotation framework for extracting trajectories from raw AIS data
 </p>
 <br>
