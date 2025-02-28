@@ -31,10 +31,14 @@ Spatial grids are colored green 🟩 if the model estimated the correct destinat
 > J. S. Kim, et al., “WAY: Estimation of vessel destination in worldwide AIS trajectory,” _IEEE Transactions on Aerospace and Electronic Systems_, Vol. 59, no. 5, pp. 5961-5977, 2023.
 ```
 @article{kim2023way,
-  title={WAY: Estimation of Vessel Destination in Worldwide AIS Trajectory},
-  author={Kim, Jin Sob and Park, Hyun Joon and Shin, Wooseok and Han, Sung Won},
+  title={WAY: Estimation of vessel destination in worldwide AIS trajectory},
+  author={Kim, Jin Sob and Park, Hyun Joon and Shin, Wooseok and Park, Dongil and Han, Sung Won},
   journal={IEEE Transactions on Aerospace and Electronic Systems},
-  year={2023}
+  volume={59},
+  number={5},
+  pages={5961--5977},
+  year={2023},
+  publisher={IEEE}
 }
 ```
 
