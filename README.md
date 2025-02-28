@@ -3,11 +3,6 @@ This is a Pytorch Implementation of [WAY: Estimation of Vessel Destination in Wo
 We only offer the source code of the model (WAY) and training framework for data confidentiality.
 
 <p align="center">
-<img src="/img/Fig-Annotation_Framework_Overview.png" width="900" height="245">   
-  <br>Visualization of annotation framework for extracting trajectories from raw AIS data
-</p>
-<br>
-<p align="center">
 <img src="/img/Fig-Model_Overview.png" width="900" height="400">   
   <br>Overall model architecture of WAY
 </p>
