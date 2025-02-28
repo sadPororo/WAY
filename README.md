@@ -3,7 +3,7 @@ This is a Pytorch Implementation of [WAY: Estimation of Vessel Destination in Wo
 Due to data confidentiality, we can only offer the source code of the model and training framework.
 
 <p align="center">
-<img src="/img/Fig-Model_Overview.png" width="900" height="400">   
+<img src="/img/Fig-Model_Overview.png" width="800" height="400">   
   <br>Overall model architecture of WAY
 </p>
 
