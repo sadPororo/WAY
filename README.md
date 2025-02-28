@@ -1,6 +1,6 @@
 # WAY: Estimation of Vessel Destination in Worldwide AIS Trajectory</br>(IEEE Transactions on Aerospace and Electronic Systems) 
 This is a Pytorch Implementation of [WAY: Estimation of Vessel Destination in Worldwide AIS Trajectory](https://ieeexplore.ieee.org/document/10107762).  
-Due to data confidentiality, we can only offer the source code of our proposed method and model training framework.
+Due to data confidentiality, we can only offer the code of our proposed methodology and model training framework.
 
 <p align="center">
 <img src="/fig/Fig-Model_Overview.png" width="800" height="390">   
