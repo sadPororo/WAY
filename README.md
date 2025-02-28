@@ -1,6 +1,6 @@
 # WAY: Estimation of Vessel Destination in Worldwide AIS Trajectory</br>(IEEE Transactions on Aerospace and Electronic Systems) 
-This is a Pytorch Implementation of [WAY: Estimation of Vessel Destination in Worldwide AIS Trajectory](https://ieeexplore.ieee.org/document/10107762).
-We only offer the source code of the model (WAY) and training framework for data confidentiality.
+This is a Pytorch Implementation of [WAY: Estimation of Vessel Destination in Worldwide AIS Trajectory](https://ieeexplore.ieee.org/document/10107762).  
+Due to data confidentiality, we can only offer the source code of the model and training framework.
 
 <p align="center">
 <img src="/img/Fig-Model_Overview.png" width="900" height="400">   
@@ -18,6 +18,7 @@ Use the [requirements.txt](/requirements.txt) to install the rest of Python depe
 ```bash
 $ pip install -r requirements.txt
 ```
+
 ## Experimental Results
 The trajectory begins from the red marker 🔴 (departure port), and progresses to the blue marker 🔵 (destination port).
 Spatial grids are colored green 🟩 if the model estimated the correct destination at the corresponding phase of the ship operation, else orange 🟧.
